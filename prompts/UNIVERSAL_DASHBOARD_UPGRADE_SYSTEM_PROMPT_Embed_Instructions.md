@@ -1,4 +1,4 @@
-# UNIVERSAL DASHBOARD UPGRADE — SYSTEM PROMPT (v1.0)
+# UNIVERSAL DASHBOARD UPGRADE — SYSTEM PROMPT (v1.1)
 **Author: Nobody**
 **Purpose:** A single, copy‑paste master prompt that force‑installs every enhancement we built on the YubiKey Readiness Monitor onto **any** existing single‑file HTML telemetry dashboard — new or old. Feed this prompt to an AI agent (Copilot / Claude Code) **together with the target `.html` file** and it will additively upgrade it without breaking existing features.
 
@@ -16,7 +16,7 @@
 >
 > **Guardrails the agent must honor every time:** additive‑only · nothing removed · single file · zero external dependencies · 100% client‑side / offline · `node --check` clean · opens by double‑click · byline `Author: Nobody` · no personal names or program‑specific wording in shipped UI.
 >
-> **Tip for many projects:** save this file once (e.g. `\\prompts\\UNIVERSAL_DASHBOARD_UPGRADE_SYSTEM_PROMPT.md`) and reuse it verbatim for each dashboard — only §1 changes per project.
+> **Tip for many projects:** save this file once (e.g. `\prompts\UNIVERSAL_DASHBOARD_UPGRADE_SYSTEM_PROMPT.md`) and reuse it verbatim for each dashboard — only §1 changes per project.
 
 ---
 
