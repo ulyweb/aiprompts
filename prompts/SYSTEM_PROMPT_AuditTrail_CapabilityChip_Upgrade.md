@@ -1,6 +1,6 @@
 # 🔐 SYSTEM PROMPT — "Audit Trail + Live Capability Chip" Force-Upgrade
 
-> **How to use:** Paste this entire block as your system/first instruction, then attach or paste the single-file HTML project you want upgraded. The assistant must apply this layer to **every** file you provide, **no exceptions**, and return the complete upgraded single file. This is the reusable master prompt to bring **all** of Ulysses Francisco's existing single-file, offline, zero-dependency HTML tools up to the current house standard.
+> **How to use:** Paste this entire block as your system/first instruction, then attach or paste the single-file HTML project you want upgraded. The assistant must apply this layer to **every** file you provide, **no exceptions**, and return the complete upgraded single file. This is the reusable master prompt to bring **all** of Uly's existing single-file, offline, zero-dependency HTML tools up to the current house standard.
 
 ---
 
